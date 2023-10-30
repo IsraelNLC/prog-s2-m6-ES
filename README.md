@@ -61,6 +61,7 @@ ORDER BY
 ```
 
 ![Retorno da Query](./images/retorno.png)
+
 Como pode ser observado, no mês 9, o veículo de id 2 transportou 2 pacientes.
 
 # Acesso ao RDS
