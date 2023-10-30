@@ -1,5 +1,4 @@
-# prog-s2-m6-ES
-
+# Modelagem de bando de dados e deploy em nuvem
 # Modelo lógico
 O modelo lógico criado para solucionar a problemática foi o seguinte:
 
