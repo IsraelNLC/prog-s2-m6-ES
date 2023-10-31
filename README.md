@@ -39,6 +39,7 @@ VALUES
 <br>
 
 ![Alt text](./images/populado.png)
+
 Banco de dados populado
 
 
@@ -70,4 +71,5 @@ Como pode ser observado, no mês 9, o veículo de id 2 transportou 2 pacientes.
 O RDS pode ser acessado pelo link *`database-atb.cnyqbrhfkmlh.us-east-1.rds.amazonaws.com:3306`* com o usuário `admin` e senha `admin123`.
 
 ![RDS Acessível](./images/rds.png)
+
 RDS acessível
