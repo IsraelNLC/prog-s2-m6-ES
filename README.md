@@ -23,6 +23,7 @@ obs.:  "AUTO_INCREMENT UNIQUE" poderia ser adicionado ao campo id_entrega
 <br>
 
 ![Tabelas Criadas](./images/tabelas.png)
+
 Tabelas criadas
 
 # Populando o banco de daos
